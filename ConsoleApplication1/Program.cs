@@ -18,6 +18,7 @@ namespace ConsoleApplication1
 		//end did this comment on child branch
 
 		//Add a line then push it to master from my1stBranch
+		//oh yeah???  I'll up you and raise you one from achildbranchmaybe--  commit this and push to master then pull down onto my 1st branch ok?
 		}
 	}
 }
