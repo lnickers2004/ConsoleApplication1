@@ -16,6 +16,8 @@ namespace ConsoleApplication1
 		//begin did this commenent on child branch
 		//Hi from child  WooHoo!!
 		//end did this comment on child branch
+
+		//Add a line then push it to master from my1stBranch
 		}
 	}
 }
