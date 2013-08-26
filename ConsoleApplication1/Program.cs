@@ -9,9 +9,12 @@ namespace ConsoleApplication1
 	{
 		static void Main(string[] args)
 		{
+		//begin added this on my1stbranch after editing same lines on childbranch
+		//hi from my1stbranch  --Larry Merged it!
+		//end  added this on my1stbranch after editing same lines on childbranch
 
 		//begin did this commenent on child branch
-		//Hi from child
+		//Hi from child  WooHoo!!
 		//end did this comment on child branch
 		}
 	}
